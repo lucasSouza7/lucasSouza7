@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasSouza7
 - 👀 I’m interested in JavaScript, HTML and CSS
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning HTML and CSS
 
 
 <div align="center">
